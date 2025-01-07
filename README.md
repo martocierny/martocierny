@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @martocierny
 - 👀 I’m interested in blockchain
 - 💞️ I’m looking to collaborate on blockchain developtment
-- 📫 How to reach me  martincierny371@gmail.com
+- 📫 How to reach me 
 
 <!---
 martocierny/martocierny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
